@@ -26,6 +26,8 @@
 ## 🖥 Demo
 gif 시연 내용 추가
 
+![pre-onboarding-fe-8-12-3weeks](https://user-images.githubusercontent.com/96014828/212293549-06614996-1a98-4763-8ecb-b515f8fae08c.gif)
+
 ---
 
 ## ⚡️ 사용 라이브러리

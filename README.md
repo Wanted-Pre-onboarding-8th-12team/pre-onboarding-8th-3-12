@@ -67,7 +67,7 @@ gif 시연 내용 추가
 
 - [류지창 Trouble Shooting Log](https://www.notion.so/b53badc75edb4edc81c5990cb135efd0)
 - [박준하 Trouble Shooting Log](https://www.notion.so/5dbd0179028240898238e0c8560a4f28)
-- []
+- [유제원 Trouble Shooting Log](https://www.notion.so/a6c2121234814972b86bf8ff71ba2c80)
 
 ## 👍 Best Practice
 
@@ -161,6 +161,3 @@ const SearchItem = (props) => {
 ```
 
 `<SearchItem/>` 에서 `tabIndex`와 자신의 index값이 같을 때, `isFocused`가 `true`가 되고 이 경우에 `valueRef`에 `sickCd`를 담아주어서 “Enter”키가 입력되었을 때, 해당 `sickCd`를 이용해서 `navigate()`또는 modal창을 띄워주는 등의 작업을 할 수 있도록 처리했습니다.
-
-## 📝 문서
-[회의록](https://absorbed-leek-405.notion.site/2-best-practice-9d77b76380b14b8d9357e07dd8e80e17)
